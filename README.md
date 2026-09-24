@@ -38,7 +38,7 @@
 
 ```javascript
 const shoxrux = {
-  role:      "Full Stack Developer",
+  role:      "Aspiring Full Stack Developer",
   location:  "Uzbekistan 🇺🇿",
   studying:  "Najot Ta'lim — Full Stack Web",
   education: "TSTU — BSc, Aircraft Production & Maintenance (2016)",
@@ -169,8 +169,14 @@ const shoxrux = {
 **Najot Ta'lim** · Toshkent · *Jun 2026 — hozirgacha*
 > Full Stack Web yo'nalishi. JavaScript, TypeScript, Node.js va Express asosida web ilovalar qurish.
 
+**Futuro Luminaso** · Toshkent · *2025*
+> Manager. Xodimlar faoliyati sifatini oshirish, kundalik yo'naltirish va qo'llab-quvvatlash.
+
 **Mudofaa vazirligi** · Buxoro / Surxondaryo · *May 2018 — Apr 2025*
 > Jamoani kundalik operatsiyalarda boshqarish, murakkab vaziyatlarda qaror qabul qilish, operatsion muammolarga tezkor javob berish.
+
+**Navoiy yer resurslari va davlat kadastri boshqarmasi** · Navoiy · *Yan 2017 — May 2018*
+> Mutaxassis. Jamoaviy ish, o'zgaruvchan vazifalarga moslashuvchanlik, muammolarni hal qilish.
 
 </details>
 
@@ -199,7 +205,7 @@ const shoxrux = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoxmasrur&theme=github-compact&hide_border=true&area=true&custom_title=Commit%20faoliyati" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph-eljc1czr0.vercel.app/graph?username=shoxmasrur&theme=github-compact&hide_border=true&area=true&custom_title=Commit%20faoliyati" alt="Activity Graph"/>
 </p>
 
 ---
