@@ -205,7 +205,7 @@ const shoxrux = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoxmasrur&theme=github-compact&hide_border=true&area=true&custom_title=Commit%20faoliyati" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph-nine-lac.vercel.app/graph?username=shoxmasrur&theme=github-compact&hide_border=true&area=true&custom_title=Commit%20faoliyati" alt="Activity Graph"/>
 </p>
 
 ---
